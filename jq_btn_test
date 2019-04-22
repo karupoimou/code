@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>サンプル</title>
+<meta charset="utf-8">
+<script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+$(function(){
+  $('#btn1').click(function(event){
+    var str = $("#test").text();  //テキストで取得
+    alert(str);
+  });
+ 
+  $('#btn2').click(function(event){
+    var str = $("#test").html();  //HTMLで取得
+    alert(str);
+  });
+});
+</script>
+</head>
+<body>
+<div id="test">あいうえお<u>かきくけこ</u>さしすせそ</div>
+<input type="button" id="btn1" value="ボタン１">
+<input type="button" id="btn2" value="ボタン２">
+</body>
+</html>
