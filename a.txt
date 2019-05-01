@@ -1,0 +1,34 @@
+▽△▽貼るコード
+
+<div style="color:#ffffff;background-color:#696969;">
+<font size="5" face="メイリオ, ヒラギノ角ゴ ProN W3, HiraKakuProN-W3">
+私は毎日二ミリずつ小さくなっているらしい
+</font>
+</div>
+<br>
+<a href="https://ncode.syosetu.com/n1060fi/" target="_blank">
+<img border="0" src="https://img1.mitemin.net/～～～ここに画像のURL.png" width="100%" height="100%" alt="表紙絵">
+</a>
+
+
+
+▽△▽説明
+
+color:#ffffff;background-color:#696969;　のところで色を指定。
+
+<img border="0" src="https://img1.mitemin.net/～～～ここに画像のURL.png" width="100%" height="100%" alt="表紙絵">
+のところで画像を指定。
+
+
+
+▽△▽画像設定例
+
+<div style="color:#ffffff;background-color:#696969;">
+<font size="5" face="メイリオ, ヒラギノ角ゴ ProN W3, HiraKakuProN-W3">
+私は毎日二ミリずつ小さくなっているらしい
+</font>
+</div>
+<br>
+<a href="https://ncode.syosetu.com/n1060fi/" target="_blank">
+<img border="0" src="https://img1.mitemin.net/1j/tb/1uor725p4ijdfaijdru07bbnbeu4_gvv_go_6z_zd5.png" width="100%" height="100%" alt="表紙絵">
+</a>
