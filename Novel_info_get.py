@@ -150,5 +150,3 @@ df.to_excel(EXL, sheet_name=sheet_name)
 
 # ExcelWriterの処理を保存
 EXL.save()
-
-df
